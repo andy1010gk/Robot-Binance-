@@ -1,2 +1,4 @@
-API_KEY = "98KX1W1ea91iqbbbCYnnLR4FFGPGeopnb8bw5WmjEAtoGqvo4Wb1ataeGCgAYjnN"
-SECRET_KEY = "5SEx3IVS20TWbahOapDQrsWTzgHpacX4dUnwNxK60G7UoXi5N4YNiXWMo0F9wVwd"
+# Agregar la llave y la clase del API
+
+API_KEY = ""
+SECRET_KEY = ""
